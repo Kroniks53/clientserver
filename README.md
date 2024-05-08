@@ -2,7 +2,7 @@
 
 
 
-Скачай сборку c последнего релиза, нажав на кнопку `Source code (zip)`. [**Клик!**](https://github.com/Kroniks53/client_sborka/releases/)
+Скачай сборку c последнего релиза, нажав на кнопку `Source code (zip)`. [**Клик!**](https://github.com/Kroniks53/clientserver/releases/)
 
 Вот ссылка на гайд для Tlauncher и TL legacy. [**Клик!**](https://youtu.be/9U89qLSotDA)
 
