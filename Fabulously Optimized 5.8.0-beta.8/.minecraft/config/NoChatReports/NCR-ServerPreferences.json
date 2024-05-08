@@ -1,0 +1,6 @@
+{
+  "signingModes": {
+    "127.0.0.1:25565": "ON_DEMAND",
+    "relax.joinserver.ru:25565": "ALWAYS"
+  }
+}
