@@ -29,7 +29,7 @@
 3. Нажимаем обзор и выбираем файл сборки
 
 
-<img width="511" alt="image" src="files\image3.png">
+<img width="525" alt="image" src="files\image3.png">
 
 
 Все! Сборка установлена! Можешь запускать!
