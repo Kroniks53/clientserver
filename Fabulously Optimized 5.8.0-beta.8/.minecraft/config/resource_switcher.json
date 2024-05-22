@@ -1,0 +1,19 @@
+{
+  "excludedPacks": [],
+  "disabledPacks": [
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "file/SodiumTranslations.zip",
+    "file/Mod Menu Helper.zip",
+    "file/Chat Reporting Helper.zip",
+    "file/Fast Better Grass.zip",
+    "file/caped-elytras-1-9-1-0.zip",
+    "file/renamer"
+  ],
+  "lockedPacks": [],
+  "mainLanguage": "en_us",
+  "alternateLanguage": "en_us",
+  "autoSaveTime": 5,
+  "displaySaveLog": false,
+  "packGroups": []
+}
